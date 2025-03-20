@@ -1,27 +1,20 @@
 [
-    {
-      "user": "A1B2C3D4E5F6",
-      "license_key": "ABC123",
-      "status": "valid",
-      "expiry": "2025-04-01"
-    },
-    {
-      "user": "D7E8F9G0H1I2",
-      "license_key": "XYZ789",
-      "status": "expired",
-      "expiry": "2024-12-01"
-    },
-    {
-      "user": "7085C2F206C5",
-      "license_key": "XYZ789",
-      "status": "valid",
-      "expiry": "2025-12-01"
-    },
-        {
-      "user": "Z0FBQUFBQm4zR2I4N2RFQjNsRnBfYWtBVjdZY0ZtSW1iQTlGVGdEZ2k0VENVOUpfbWQwMzRLZUYwTHdFSldtU3NveHNwM1QtemNlNjBtRGZaRG9yOFBOR19HekdaeGRsekE9PQ==",
-      "license_key": "XYZ789",
-      "status": "valid",
-      "expiry": "2025-12-01"
-    }
+  {
+    "user": "A1B2C3D4E5F6",
+    "license_key": "ABC123",
+    "status": "valid",
+    "expiry": "2025-04-01"
+  },
+  {
+    "user": "D7E8F9G0H1I2",
+    "license_key": "XYZ789",
+    "status": "expired",
+    "expiry": "2024-12-01"
+  },
+  {
+    "user": "Z0FBQUFBQm4zR2I4N2RFQjNsRnBfYWtBVjdZY0ZtSW1iQTlGVGdEZ2k0VENVOUpfbWQwMzRLZUYwTHdFSldtU3NveHNwM1QtemNlNjBtRGZaRG9yOFBOR19HekdaeGRsekE9PQ==",
+    "license_key": "XYZ789",
+    "status": "valid",
+    "expiry": "2025-12-01"
+  }
 ]
-
