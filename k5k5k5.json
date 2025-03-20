@@ -16,5 +16,11 @@
     "license_key": "XYZ789",
     "status": "expired",
     "expiry": "2025-02-11"
+  },
+  {
+    "user": "200000AW3F",
+    "license_key": "2DA1FAEE2BC6462EB04D6CB6C085DF96",
+    "status": "valid",
+    "expiry": "2025-04-10"
   }
 ]
