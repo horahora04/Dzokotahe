@@ -14,13 +14,13 @@
   {
     "user": "A8A1593F5B73",
     "license_key": "E5F42793A87B40B386F71FAF0DD32330",
-    "status": "valid",
+    "status": "expired",
     "expiry": "2025-04-21"
   },
   {
     "user": "E03F49A40C58",
     "license_key": "51C1F1929CE9434BA91D8BDC96A17413",
-    "status": "valid",
+    "status": "expired",
     "expiry": "2025-04-21"
   },
   {
@@ -28,5 +28,11 @@
     "license_key": "44853F9DA8DB4799BD2B5C762B4EF9CC",
     "status": "valid",
     "expiry": "2025-05-23"
+  },
+  {
+    "user": "47C16504E90",
+    "license_key": "780FDBF2A72247778C747CC01C6B79CB",
+    "status": "valid",
+    "expiry": "2025-05-09"
   }
 ]
